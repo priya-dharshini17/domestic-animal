@@ -1,0 +1,14 @@
+/* <h1> */
+h1{
+    color: purple
+}
+div{
+    border: 2px solid blanchedalmond;
+    width: 2000px;
+    position: relative;
+    background-color: palegoldenrod;
+}
+img{
+    border: 1px dotted plum;
+    border-radius: 50%;
+}
